@@ -1,6 +1,7 @@
 {
   "routes": [
-	{ "src": "/", "dest": "/test.html" }
+	{ "src": "/", "dest": "/Builds/Web/takbo.html" },
+	{ "src": "/*", "dest": "/Builds/Web/*" },
   ]
 }
 
